@@ -1,5 +1,5 @@
 <h2 align="center">
-    🇷𝗢𝗖𝗞𝗘𝗧🇲𝗨𝗦𝗜𝗖🇧𝗢𝗧
+  🇷𝗢𝗖𝗞𝗘𝗧🇲𝗨𝗦𝗜𝗖🇧𝗢𝗧
 </h2>
 
 <p align="center">
